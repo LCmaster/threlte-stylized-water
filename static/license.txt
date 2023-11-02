@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shallowstead Inn - Pirate tavern
+* source:	https://sketchfab.com/3d-models/shallowstead-inn-pirate-tavern-7983990432fa446387a957d9fdc0d231
+* author:	Jef Simons (https://sketchfab.com/mynamejef)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shallowstead Inn - Pirate tavern" (https://sketchfab.com/3d-models/shallowstead-inn-pirate-tavern-7983990432fa446387a957d9fdc0d231) by Jef Simons (https://sketchfab.com/mynamejef) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
